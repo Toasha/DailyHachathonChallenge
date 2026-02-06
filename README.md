@@ -1,0 +1,2 @@
+# DailyHachathonChallenge
+技術力と実装力を上げるために毎日AIからお題を出してもらいそのお題を実装するチャレンジ
