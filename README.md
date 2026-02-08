@@ -32,3 +32,16 @@
 - 選択状態に応じた表示の変化（色の変更）
 - 状態に応じて処理を分岐するUIロジックの実装
 </details>
+
+
+<details>
+<summary>Day3</summary>
+
+### 内容
+SwiftUI の Stepper を用いた数値操作の実装
+### 作業時間
+5分
+### 実装できたもの
+- SwiftUI の Stepper を使った数値の増減
+- UI コンポーネントを使ったインタラクションの実装
+</details>
