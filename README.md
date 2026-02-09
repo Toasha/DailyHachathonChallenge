@@ -45,3 +45,16 @@ SwiftUI の Stepper を用いた数値操作の実装
 - SwiftUI の Stepper を使った数値の増減
 - UI コンポーネントを使ったインタラクションの実装
 </details>
+
+<details>
+<summary>Day4</summary>
+
+### 内容
+初歩的なhttp通信による生データの表示
+### 作業時間
+10分
+### 実装できたもの
+- URLSessionによるhttp通信
+- 返ってきたjsonデータのデコード
+- デコードしたデータの表示
+</details>
