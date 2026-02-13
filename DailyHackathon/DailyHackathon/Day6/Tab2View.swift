@@ -8,11 +8,12 @@
 import SwiftUI
 
 struct Tab2View: View {
+    @Binding var count: Int
     var body: some View {
-        Text("second")
+        Text("\(count)")
     }
 }
 
 #Preview {
-    Tab2View()
+    Tab2View(count: .constant(0))
 }
