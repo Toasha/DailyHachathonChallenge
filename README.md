@@ -74,3 +74,16 @@ SwiftUI の Stepper を用いた数値操作の実装
 - 検索バーの位置の変更
   
 </details>
+
+<details>
+<summary>Day6</summary>
+
+### 内容
+TabView を用いた複数画面構成の実装
+### 作業時間
+5分
+### 実装できたもの
+- TabView を用いた2画面構成
+- `.tabItem` によるタブアイコンとタイトルの設定
+
+</details>
