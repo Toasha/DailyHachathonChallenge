@@ -135,3 +135,23 @@ TabView を基盤とした状態共有とお気に入りフィルター機能の
 - エラーハンドリングしていくことが必要
 
 </details>
+
+<details>
+<summary>Day9</summary>
+
+### 内容
+async awaitを使った非同期処理
+
+### 作業時間
+20分
+
+### 実装できたもの
+- enumでviewと状態管理
+- プログレスviewでロード時のviewを表示
+- Taskで非同期処理の実行
+
+### 学び
+- ProgressViewが本当に便利だと感じた
+- throws/throw/try/do/catchの意味がわかった
+
+</details>
