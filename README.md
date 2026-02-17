@@ -153,5 +153,6 @@ async awaitを使った非同期処理
 ### 学び
 - ProgressViewが本当に便利だと感じた
 - throws/throw/try/do/catchの意味がわかった
+- async await自体を書くのは簡単
 
 </details>
