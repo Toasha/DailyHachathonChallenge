@@ -156,3 +156,28 @@ async awaitを使った非同期処理
 - async await自体を書くのは簡単
 
 </details>
+
+<details>
+<summary>Day10</summary>
+
+### 内容
+MVVMを用いた非同期処理のサンプルコードを写経し仕組みを理解した。
+enumを用いた状態管理とそれに連動したUIの切り替え処理の理解
+`ObservableObject`を利用したViewとViewModelのデータ連携について理解を深めた
+
+### 作業時間
+90分
+
+### 実装できたもの
+- enumで状態管理をし状態ごとのviewを表示
+- 簡単なmvvmでの実装
+
+### 学び
+- ObservableObjectとPublishedの関係がわかった
+- @Publishedがついたオブジェクトはデータが変わったという通知を飛ばし@StateObjectがそれを受け取る
+- async/awaitはとdo/catchは順次処理にエラーという保険をつけるイメージ
+- final classはそれ以上継承できないclassのこと
+- swiftではTask{}の中でasync関数を呼び出さないといけない
+- Taskは処理を実行途中でやめさせる機能を持っている
+- TaskGroupやasync letを使うと二つ以上の処理を同時に走らせて両方終わるのを待つといった高度なコントロールが可能になる
+</details>

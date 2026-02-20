@@ -1,10 +1,3 @@
-//
-//  DailyHackathonApp.swift
-//  DailyHackathon
-//
-//  Created by yano syoudai on 2026/02/06.
-//
-
 import SwiftUI
 
 @main
