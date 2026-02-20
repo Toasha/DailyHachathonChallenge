@@ -11,7 +11,7 @@ import SwiftUI
 struct DailyHackathonApp: App {
     var body: some Scene {
         WindowGroup {
-            MainView()
+            Day10_TextView()
         }
     }
 }
